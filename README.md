@@ -1,4 +1,4 @@
-![welcome](https://img.bassexpression.com/images/2016/12/09/welcome-png-pics-20.png)
+![welcome](https://ibb.co/6bLfkD8)
 
 ### 📩 Join us here: [https://t.me/drainerservices](https://t.me/drainerservices)
 
