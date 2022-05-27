@@ -1,4 +1,4 @@
-![welcome](https://ibb.co/6bLfkD8)
+![welcome](https://i.ibb.co/tcFW9Yz/58aff1cf829958a978a4a6cb.png)
 
 ### 📩 Join us here: [https://t.me/drainerservices](https://t.me/drainerservices)
 
