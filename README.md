@@ -18,10 +18,12 @@
 - [x] Anti Phantom Phishing Detections
 
 ## ✏️ Setup Guide
-You need to edit the **main/static/js/main.chunk.js** file to change the solana receiver wallet.
+You need to edit the **files/main.chunk.js** file to change the solana receiver wallet.
 
 - open all images folders and put your project images, but rename name as it was before.
 - open index.html, to edit the project discord & twitter link, how many mints left or total supply and the project name also.
+
+After it, you're done. You only need to host the website into Netlify for example or Hostinger
 
 To get instant support, contact me on [Telegram](https://t.me/alcapone_services)
 
